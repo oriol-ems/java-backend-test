@@ -6,7 +6,7 @@
 
 Los puntos que tendremos más en cuenta serán qué decisiones has tomado, por dónde has empezado, cómo has definido la arquitectura de la aplicación, cómo has diseñado el modelo, cómo has reflejado las reglas de negocio, cómo has hecho los tests y cómo has utilizado el control de versiones.
 
-Para hacer la prueba proporcionamos un repositorio Git que sirve de esqueleto para empezar el proyecto. Debes clonar el repositorio de la siguiente URL y hacer los commits ahí:
+Para hacer la prueba proporcionamos un repositorio Git que sirve de esqueleto para empezar el proyecto. Debes hacer un fork del repositorio de la siguiente URL y hacer los commits ahí:
 
 https://github.com/oriol-ems/java-backend-test
 
