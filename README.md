@@ -29,12 +29,12 @@ En la API se tienen que implementar los siguientes endpoints para estas funciona
 
 - Crear un nuevo análisis.
 
-  Este endpoint debe recibir el nombre y los apellidos de un paciente y el nombre del análisis realizado. La respuesta de este endpoint será el id del análisis.
+  Este endpoint debe recibir el identificador del paciente y el nombre del análisis realizado. La respuesta de este endpoint será el id del análisis.
 
 
 - Recuperar los análisis de todos los pacientes.
 
-  Devolver el listado completo (con todos los datos), agrupado por paciente, de análisis.
+  Devolver el listado resumido (todos los datos de paciente, pero de análisis sólo nombre e identificador), agrupado por paciente, de análisis.
 
 
 - Actualizar datos del diagnóstico.
